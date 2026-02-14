@@ -155,7 +155,7 @@ Busco oportunidade como jovem aprendiz ou estagiário para adquirir experiência
 
     - Link do projeto GitHub
 
-      - https:\/\/github.com\/Draconic-Hacker\/ciig\_systems
+      - https:\/\/github.com\/Draconic-Hacker\/projeto\_ciig\_systems
 
   ],
 )

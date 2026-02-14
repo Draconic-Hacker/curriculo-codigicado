@@ -41,7 +41,7 @@ Plataforma web em desenvolvimento criada inicialmente como projeto de TCC do ens
 
 - Link do projeto GitHub
 
-  - https://github.com/Draconic-Hacker/ciig_systems
+  - https://github.com/Draconic-Hacker/projeto_ciig_systems
 
 
 
